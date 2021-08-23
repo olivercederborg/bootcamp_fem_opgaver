@@ -1,0 +1,12 @@
+.Item-counter {
+	display: flex;
+	align-items: center;
+}
+
+.Item-counter__button {
+	padding: 0.5rem 1rem;
+}
+
+.Item-counter__counter-text {
+	padding: 0 0.5rem;
+}
